@@ -1,0 +1,13 @@
+flask
+langchain
+sqlalchemy
+flask_bcrypt
+bcrypt
+flask_login
+flask_wtf
+flask_migrate
+langchain_groq
+pytz
+jsonify
+pillow
+python-dotenv
